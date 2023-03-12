@@ -1,4 +1,4 @@
-Vehicle Speed Tracker
+# Jetson Nano based Vehicle Speed Tracker
 
 - The program is for jetson nano microcontroller.
 - The tracking is done using jetson inference library on python.
